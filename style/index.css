@@ -1,0 +1,272 @@
+.navi{
+    background-image: url("../hero-bg.png");
+    background-repeat: no-repeat;
+    width:1200;
+    height: 980px;
+    background-size: cover;
+
+
+    
+*{
+ margin: 0%;
+ padding: 0%;
+}
+/* nav style  */
+
+.nav-hello:hover{
+    font-size: 22px;
+   text-align: center;
+   background-color: antiquewhite;
+   color:  rgb(6, 221, 149);;
+    
+}   
+}
+div  h3{
+
+   
+ 
+}
+.navi{
+background-position: center;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+nav >ul{
+display: flex;
+background-color: rgb(248, 232, 0);
+   
+   justify-content: center;
+   align-items: center;
+
+}
+nav li{
+    list-style: none;
+    margin-right: 5px;
+    padding: 15px;
+}
+nav li:hover{
+      background-color: rgb(245, 246, 248);
+}
+ nav li a{ 
+   text-decoration: none;
+   color: black;
+ }  
+ .navi{
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    color: white;
+    
+    border-radius: 5px;
+   
+    l
+ }
+ .image{
+   border:10px;
+   border-radius: 6px;
+ 
+    width: 160px;
+   height: auto; 
+   margin-left: 120px;
+   background-color:solid red
+         }
+ 
+.first{ padding: 5px 66px;
+    
+     width: 274px; 
+     height: 32; 
+     font-family: work sens;
+     font-size: 20px;
+     font-weight: 550px;
+     line-height: 30px;
+     letter-spacing: 0%;
+     text-align: center; 
+     border: 10px;
+     border-radius: 9px;
+   } 
+     .secend{ padding: 5px;
+       margin: 6px; 
+       width: 500px; 
+       height: 160px; 
+       font-size: 20px; 
+       border: 6px;
+       border-radius: 5px;
+       color: rgb(255, 255,255); font-family: work sens;
+     font-size: 20px;
+     font-weight: 550px;
+     line-height: 30px;
+     letter-spacing: 0%;
+     text-align: center; 
+       
+
+      
+      
+      } 
+      /* shared style */
+.text-senter{
+    text-align: center;
+}
+.secondary-bg{
+    background-color: #FFF8F3;
+}
+.text-my{
+    color:orange;
+}      
+.dark-2{
+    color: #474747 ;
+}
+.btn-primary{
+    background-color:rgba(231, 143, 42, 0.933) ;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    color: white;
+    padding: 18px 35px;
+    border-radius: 5px;
+}
+.section-title{
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+    text-align: center;
+    justify-content: center;
+}
+.section-description{
+    font-size: 22px;
+    color: #757575;
+}
+
+}
+/* main style */
+ main section{
+ margin-top: 130px;
+ margin-bottom: 130px;
+ }
+ main{
+    max-width:1140px ;
+    margin: 0 auto;
+ }
+
+ }
+ /* about style */
+
+ .about{
+
+border-radius: 10px;
+padding: 130px 150px;
+text-align: center;
+
+ }
+ .about-items{
+    display: flex;
+    justify-content: space-around;
+ }
+ .item-description{
+    font-weight: 600px;
+
+ }
+
+/* skills section styles */
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+.skill{
+    padding: 30px;
+    border-radius: 5px;
+    gap: 15px;
+    box-shadow: 0px 6px 50px 0px #rgba(0, 0, 0, 0, .06)
+
+
+    
+}
+/* resume section style */
+ .resume-container{
+    display: flex;
+    gap: 24px;
+ }
+ .experience-sub-title{
+    font-size: 20px;
+    font-weight: 600px;
+    margin-bottom: 20px;
+
+ }
+ .experience-sub-title,.experience-description{
+    color: #757575;
+ }
+ .resume hr{
+    margin: 30px 5px;
+ }
+.resume-download-cv{
+    margin-top: 50px;
+}
+/* footer style */
+footer{
+    padding:130px 230px ;
+    
+    gap: 10px;
+}
+.footer-column{
+  
+}
+footer input[type="text"],footer input[type="email"],footer textarea {
+    height: 24px;
+    border-radius: 5px;
+    background-color: white ;
+    color: #757575;
+    display: block;
+    width: 30%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+      justify-content: center;
+      align-items: center;
+
+}
+      .last{
+          font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+    text-align: center;
+    justify-content: center;
+      }
+       .lie{
+          font-size: 15px;
+   font-weight: bold;
+    text-align: center;
+
+
+       }
+       /* section titel */
+       
+       .section2{
+        display: flex;
+          width: 6000px;
+         height: 600px;
+         margin-top: 60px;
+         gap: 55px;
+    
+       
+       }
+       .images{
+        height: 120px;
+       }
+       .gan{
+         margin: 6px; 
+    
+ height: 100pxpx;
+       font-size: 20px; 
+       border: 6px;
+       border-radius: 5px;
+       color: rgb(156, 147, 147); font-family: work sens;
+     font-size: 20px;
+     font-weight: 650px;
+     line-height: 40px;
+     letter-spacing: 2px;
+     background-color: #e5d0c0;
+     font-size: large;
+     padding-right: 100px;
+   
+       }
